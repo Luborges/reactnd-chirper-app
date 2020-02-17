@@ -4,7 +4,7 @@ This repo was made based on the project in the [React Nanodegree program](https:
 
 ## Project Setup
 
-* clone the Project - `git@github.com:udacity/reactnd-chirper-app.git`
+* clone the Project - `git@github.com:Luborges/reactnd-chirper-app.git`
 * install the dependencies - `npm install`
 
 ## License
